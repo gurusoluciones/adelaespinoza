@@ -822,7 +822,7 @@ body {
   box-shadow: none !important;
 }
 .cid-rsS3lMGD9k {
-  background-image: url("../../../assets/images/img-5834-2000x1500.jpg");
+  background-image: url("../../../assets/images/adela2-959x539.jpg");
 }
 .cid-rsS3lMGD9k .mbr-text,
 .cid-rsS3lMGD9k .typed-text,
@@ -874,6 +874,16 @@ body {
   100% {
     opacity: 1;
   }
+}
+.cid-rsS3lMGD9k .mbr-section-title {
+  color: #444444;
+}
+.cid-rsS3lMGD9k .typed-text {
+  color: #000000;
+}
+.cid-rsS3lMGD9k .mbr-section-text,
+.cid-rsS3lMGD9k .mbr-section-btn {
+  color: #444444;
 }
 .cid-rsS3GzaImB {
   padding-top: 60px;
